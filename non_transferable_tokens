@@ -1,0 +1,24 @@
+{
+  "tokens": [
+    {
+      "contract": "betdividends",
+      "currency": "BET",
+      "error": "Sorry token is locked."
+    },
+    {
+      "contract": "granpacoins",
+      "currency": "DOGE",
+      "error": "Game locked."
+    },
+    {
+      "contract": "fastwinadmin",
+      "currency": "FAST",
+      "error": "Cannot Transfer."
+    },
+    {
+      "contract": "eoshashcoins",
+      "currency": "HPOINT",
+      "error": "transfer not allowed"
+    }
+  ]
+}
