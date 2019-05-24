@@ -25,12 +25,32 @@
       "currency": "BITI"
     },
     {
+      "contract": "bitpietokens",
+      "currency": "EUSD"
+    },
+    {
+      "contract": "buildertoken",
+      "currency": "EBTC"
+    },
+    {
+      "contract": "bitpietokens",
+      "currency": "ADE"
+    },
+    {
       "contract": "challengedac",
       "currency": "CHL"
     },
     {
+      "contract": "cryptopesosc",
+      "currency": "PSO"
+    },
+    {
       "contract": "dbetminepool",
       "currency": "DBET"
+    },
+    {
+      "contract": "d.mail",
+      "currency": "MAIL"
     },
     {
       "contract": "emanateoneos",
@@ -39,6 +59,10 @@
     {
       "contract": "endlesstoken",
       "currency": "ET"
+    },
+    {
+      "contract": "eosabctokens",
+      "currency": "EOSABC"
     },
     {
       "contract": "eosadddddddd",
@@ -50,7 +74,11 @@
     },
     {
       "contract": "eosbettokens",
-      "currency": "LTC"
+      "currency": "BTC"
+    },
+    {
+      "contract": "eosblackteam",
+      "currency": "BLACK"
     },
      {
       "contract": "eosbtextoken",
@@ -63,6 +91,10 @@
     {
       "contract": "eosdactokens",
       "currency": "EOSDAC"
+    },
+    {
+      "contract": "eosdragontkn",
+      "currency": "DRAGON"
     },
     {
       "contract": "eosggshost11",
@@ -123,6 +155,10 @@
     {
       "contract": "fastecoadmin",
       "currency": "FAST"
+    },
+    {
+      "contract": "fastwinitemf",
+      "currency": "SLIEMT"
     },
     {
       "contract": "fight22death",
@@ -211,6 +247,10 @@
     {
       "contract": "tgonstakeeos",
       "currency": "TGE"
+    },
+    {
+      "contract": "eostimetoken",
+      "currency": "TIME"
     },
     {
       "contract": "thebeantoken",
