@@ -1,0 +1,15 @@
+{
+  "account": "hezdqobvguge",
+  "domain": "https://githubusercontent.com",
+  "appmeta": "https://raw.githubusercontent.com/eosminerbot1/transferable_tokens/master/app-metadata.json#SHA256HASH",
+  "whitelist": [
+    {
+      "contract": "eosio.token",
+      "action": ""
+    },
+    {
+      "contract": "landeospropr",
+      "action": "register"
+    }
+  ]
+}
