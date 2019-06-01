@@ -6,7 +6,7 @@
       "manifest": {
         "account": "hezdqobvguge",
         "domain": "https://raw.githubusercontent.com",
-        "appmeta": "https://raw.githubusercontent.com/eosminerbot1/transferable_tokens/master/app-metadata.json#SHA256HASH",
+        "appmeta": "https://raw.githubusercontent.com/eosminerbot1/transferable_tokens/master/appmeta.json#SHA256HASH",
         "whitelist": [
           {
             "contract": "eosio.token",
