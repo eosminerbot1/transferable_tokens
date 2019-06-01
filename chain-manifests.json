@@ -5,7 +5,7 @@
       "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
       "manifest": {
         "account": "hezdqobvguge",
-        "domain": "https://githubusercontent.com",
+        "domain": "https://raw.githubusercontent.com",
         "appmeta": "https://raw.githubusercontent.com/eosminerbot1/transferable_tokens/master/app-metadata.json#SHA256HASH",
         "whitelist": [
           {
