@@ -14,7 +14,7 @@
           },
           {
             "contract": "fastecoadmin",
-            "action": ""
+            "action": "transfer"
           }
         ]
       }
