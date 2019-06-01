@@ -15,6 +15,10 @@
           {
             "contract": "fastecoadmin",
             "action": "transfer"
+          },
+          {
+            "contract": "betdicetoken",
+            "action": "transfer"
           }
         ]
       }
