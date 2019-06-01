@@ -18,24 +18,6 @@
           }
         ]
       }
-    },
-    {
-      "chainId": "EOSIO2222",
-      "manifest": {
-        "account": "landeospropr",
-        "domain": "https://landeos.io",
-        "appmeta": "https://landeos.io/app-metadata.json#SHA256HASH",
-        "whitelist": [
-          {
-            "contract": "eosio.token",
-            "action": ""
-          },
-          {
-            "contract": "landeospropr",
-            "action": "register"
-          }
-        ]
-      }
     }
   ]
 }
