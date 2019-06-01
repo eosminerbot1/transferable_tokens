@@ -1,6 +1,6 @@
 {
   "spec_version": "1.0",
-  manifests: [
+  "manifests": [
     {
       "account": "hezdqobvguge",
       "domain": "https://githubusercontent.com",
