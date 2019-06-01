@@ -4,7 +4,7 @@
   "shortname": "TransferFast",
   "scope": "/",
   "apphome": "/home",
-  "icon": "https://coindoo.com/wp-content/uploads/2018/07/eos-cryptocurrency-crypto-currency-coin-logo-3cbf68c28ac9549e-512x512.png#95f107c03b4f4ed3708c3efe858f3590c84f896c097736dcd08abf3c2f67861a",
+  "icon": "https://coindoo.com/wp-content/uploads/2018/07/eos-cryptocurrency-crypto-currency-coin-logo-3cbf68c28ac9549e-512x512.png#457eb0767b49b1a2f76f2cd2de0a3c0e7791c40ff1cf4b33ab0f9c696e44f05e",
   "appIdentifiers": ["com.hoozdeal.hoozdeal-ios"],
   "description": "Test Transfer of Fast - using a templated project I created.",
   "sslfingerprint": "",
@@ -12,7 +12,7 @@
     {
       "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
       "chainName": "EOS Mainnet",
-      "icon": "https://coindoo.com/wp-content/uploads/2018/07/eos-cryptocurrency-crypto-currency-coin-logo-3cbf68c28ac9549e-512x512.png#95f107c03b4f4ed3708c3efe858f3590c84f896c097736dcd08abf3c2f67861a"
+      "icon": "https://coindoo.com/wp-content/uploads/2018/07/eos-cryptocurrency-crypto-currency-coin-logo-3cbf68c28ac9549e-512x512.png#457eb0767b49b1a2f76f2cd2de0a3c0e7791c40ff1cf4b33ab0f9c696e44f05e"
     }
   ]
 }
