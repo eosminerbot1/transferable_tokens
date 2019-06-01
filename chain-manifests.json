@@ -2,19 +2,37 @@
   "spec_version": "0.0.7",
   "manifests": [
     {
-      "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
+      "chainId": "EOSIO1111",
       "manifest": {
-        "account": "hezdqobvguge",
-        "domain": "https://githubusercontent.com",
-        "appmeta": "https://raw.githubusercontent.com/eosminerbot1/transferable_tokens/master/app-metadata.json#SHA256HASH",
+        "account": "landeospropr",
+        "domain": "https://landeos.io",
+        "appmeta": "https://landeos.io/app-metadata.json#SHA256HASH",
         "whitelist": [
           {
             "contract": "eosio.token",
             "action": ""
           },
           {
-            "contract": "fastecoadmin",
+            "contract": "landeospropr",
+            "action": "register"
+          }
+        ]
+      }
+    },
+    {
+      "chainId": "EOSIO2222",
+      "manifest": {
+        "account": "landeospropr",
+        "domain": "https://landeos.io",
+        "appmeta": "https://landeos.io/app-metadata.json#SHA256HASH",
+        "whitelist": [
+          {
+            "contract": "eosio.token",
             "action": ""
+          },
+          {
+            "contract": "landeospropr",
+            "action": "register"
           }
         ]
       }
