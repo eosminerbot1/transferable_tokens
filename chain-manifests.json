@@ -1,15 +1,20 @@
 {
-  "account": "hezdqobvguge",
-  "domain": "https://githubusercontent.com",
-  "appmeta": "https://raw.githubusercontent.com/eosminerbot1/transferable_tokens/master/app-metadata.json#SHA256HASH",
-  "whitelist": [
+  "spec_version": "1.0",
+  manifests: [
     {
-      "contract": "eosio.token",
-      "action": ""
-    },
-    {
-      "contract": "fastecoadmin",
-      "action": ""
+      "account": "hezdqobvguge",
+      "domain": "https://githubusercontent.com",
+      "appmeta": "https://raw.githubusercontent.com/eosminerbot1/transferable_tokens/master/app-metadata.json#SHA256HASH",
+      "whitelist": [
+        {
+          "contract": "eosio.token",
+          "action": ""
+        },
+        {
+          "contract": "fastecoadmin",
+          "action": ""
+        }
+      ]
     }
   ]
 }
