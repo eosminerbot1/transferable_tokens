@@ -20,5 +20,10 @@
       "currency": "HPOINT",
       "error": "transfer not allowed"
     }
+    {
+      "contract": "pkrdactokens",
+      "currency": "PKRDAC"
+      "error": "tokens frozen until launch"
+    },
   ]
 }
