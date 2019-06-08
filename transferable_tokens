@@ -221,6 +221,10 @@
       "currency": "PATR"
     },
     {
+      "contract": "playeronetkn",
+      "currency": "PLO"
+    },
+    {
       "contract": "pokereotoken",
       "currency": "PKE"
     },
@@ -237,6 +241,10 @@
       "currency": "SENSE"
     },
     {
+      "contract": "shadowbanker",
+      "currency": "ESA"
+    },
+    {
       "contract": "share.x",
       "currency": "SHARE"
     },
@@ -245,12 +253,24 @@
       "currency": "TOOK"
     },
     {
+      "contract": "thebetxtoken",
+      "currency": "BETX"
+    },
+    {
       "contract": "tgonstakeeos",
       "currency": "TGE"
     },
     {
+      "contract": "trybenetwork",
+      "currency": "TRYBE"
+    },
+    {
       "contract": "eostimetoken",
       "currency": "TIME"
+    },
+    {
+      "contract": "taste.x",
+      "currency": "TASTE"
     },
     {
       "contract": "thebeantoken",
@@ -267,6 +287,10 @@
     {
       "contract": "tulip.vr",
       "currency": "TULIP"
+    },
+    {
+      "contract": "whalextoken",
+      "currency": "WAL"
     },
     {
       "contract": "zkstokensr4u",
