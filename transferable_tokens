@@ -1,8 +1,16 @@
 {
   "tokens": [
     {
+      "contract": "aircoin.eos",
+      "currency": "AC"
+    },
+    {
       "contract": "alibabapoole",
       "currency": "EPT"
+    },
+    {
+      "contract": "bbqbbqwallet",
+      "currency": "BBQ"
     },
     {
       "contract": "betdicetoken",
@@ -45,12 +53,32 @@
       "currency": "PSO"
     },
     {
+      "contract": "dacincubator",
+      "currency": "YDAPP"
+    },
+    {
       "contract": "dbetminepool",
       "currency": "DBET"
     },
     {
+      "contract": "dexeoswallet",
+      "currency": "PEN"
+    },
+    {
+      "contract": "dhbonetokens",
+      "currency": "DHB"
+    },
+    {
       "contract": "d.mail",
       "currency": "MAIL"
+    },
+    {
+      "contract": "ectchaincoin",
+      "currency": "ECTT"
+    },
+    {
+      "contract": "ednazztokens",
+      "currency": "EDNA"
     },
     {
       "contract": "emanateoneos",
@@ -112,6 +140,10 @@
       "contract": "eosiomeetone",
       "currency": "MEETONE"
     },
+    {
+      "contract": "eosiomoreone",
+      "currency": "MORE"
+    },
      {
       "contract": "eosiotokener",
       "currency": "EGT"
@@ -125,8 +157,16 @@
       "currency": "JKR"
     },
     {
+      "contract": "eosluckcoin1",
+      "currency": "LUCK"
+    },
+    {
       "contract": "eoslucktoken",
       "currency": "LUCKY"
+    },
+    {
+      "contract": "eosmax1token",
+      "currency": "MAX"
     },
     {
       "contract": "eosnowbpower",
@@ -141,12 +181,20 @@
       "currency": "TGC"
     },
     {
+      "contract": "eostoken4455",
+      "currency": "ZTC"
+    },
+    {
       "contract": "eosvegascoin",
       "currency": "MEV"
     },
     {
       "contract": "epraofficial",
       "currency": "EPRA"
+    },
+    {
+      "contract": "esbcointoken",
+      "currency": "ESB"
     },
     {
       "contract": "ethsidechain",
@@ -169,6 +217,10 @@
       "currency": "FISH"
     },
     {
+      "contract": "frogfrogtoken",
+      "currency": "FROG"
+    },
+    {
       "contract": "funcitytoken",
       "currency": "CITY"
     },
@@ -177,12 +229,40 @@
       "currency": "GBT"
     },
     {
+      "contract": "gameskytoken",
+      "currency": "SKY"
+    },
+    {
       "contract": "gqydooigenes",
       "currency": "LZB"
     },
     {
+      "contract": "hashbabycoin",
+      "currency": "HBGO"
+    },
+    {
       "contract": "hirevibeshvt",
       "currency": "HVT"
+    },
+    {
+      "contract": "hongbaotoken",
+      "currency": "NRED"
+    },
+    {
+      "contract": "horustokenio",
+      "currency": "ECASH"
+    },
+    {
+      "contract": "infinicoinio",
+      "currency": "INF"
+    },
+    {
+      "contract": "lilei5555555",
+      "currency": "SHE"
+    },
+    {
+      "contract": "llgonebtotal",
+      "currency": "LLG"
     },
     {
       "contract": "therealkarma",
@@ -209,16 +289,48 @@
       "currency": "NEB"
     },
     {
+      "contract": "newdexissuer",
+      "currency": "NDX"
+    },
+    {
       "contract": "novusphereio",
       "currency": "ATMOS"
+    },
+    {
+      "contract": "oasis.x",
+      "currency": "OSDS"
+    },
+    {
+      "contract": "obtain.e",
+      "currency": "OBT"
+    },
+    {
+      "contract": "octtothemoon",
+      "currency": "OCT"
     },
     {
       "contract": "okkkkkkkkkkk",
       "currency": "GO"
     },
     {
+      "contract": "onessusblock",
+      "currency": "VOID"
+    },
+    {
       "contract": "patreostoken",
       "currency": "PATR"
+    },
+    {
+      "contract": "phemiclassic",
+      "currency": "PHC"
+    },
+    {
+      "contract": "pickowntoken",
+      "currency": "OWN"
+    },
+    {
+      "contract": "pizzatotoken",
+      "currency": "PIZZA"
     },
     {
       "contract": "playeronetkn",
@@ -237,6 +349,10 @@
       "currency": "PUB"
     },
     {
+      "contract": "pxstokensapp",
+      "currency": "PXS"
+    },
+    {
       "contract": "sensegenesis",
       "currency": "SENSE"
     },
@@ -247,6 +363,10 @@
     {
       "contract": "share.x",
       "currency": "SHARE"
+    },
+    {
+      "contract": "stablecarbon",
+      "currency": "CUSD"
     },
     {
       "contract": "taketooktook",
@@ -261,12 +381,20 @@
       "currency": "TGE"
     },
     {
+      "contract": "tobetiotoken",
+      "currency": "TOB"
+    },
+    {
       "contract": "trybenetwork",
       "currency": "TRYBE"
     },
     {
       "contract": "eostimetoken",
       "currency": "TIME"
+    },
+    {
+      "contract": "ridlridlcoin",
+      "currency": "RIDL"
     },
     {
       "contract": "taste.x",
@@ -285,12 +413,32 @@
       "currency": "PEOS"
     },
     {
+      "contract": "tkcointkcoin",
+      "currency": "TKC"
+    },
+    {
       "contract": "tulip.vr",
       "currency": "TULIP"
     },
     {
+      "contract": "untowermain1",
+      "currency": "UTG"
+    },
+    {
+      "contract": "weosservices",
+      "currency": "WECASH"
+    },
+    {
       "contract": "whalextoken",
       "currency": "WAL"
+    },
+    {
+      "contract": "wizznetwork1",
+      "currency": "WIZZ"
+    },
+    {
+      "contract": "worktokenbvi",
+      "currency": "LYNX"
     },
     {
       "contract": "zkstokensr4u",
