@@ -441,10 +441,6 @@
       "currency": "LYNX"
     },
     {
-      "contract": "zkstokensr4u",
-      "currency": "ZKS"
-    },
-    {
       "contract": "zosdiscounts",
       "currency": "ZOS"
     }
