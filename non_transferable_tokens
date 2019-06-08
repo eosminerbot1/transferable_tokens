@@ -16,14 +16,24 @@
       "error": "Cannot Transfer."
     },
     {
+      "contract": "eosgetgtoken",
+      "currency": "GT",
+      "error": "unknown action transfer in contract eosgetgtoken"
+    },
+    {
       "contract": "eoshashcoins",
       "currency": "HPOINT",
       "error": "transfer not allowed"
-    }
+    },
     {
       "contract": "pkrdactokens",
       "currency": "PKRDAC"
       "error": "tokens frozen until launch"
+    },
+    {
+      "contract": "rosdappcomio",
+      "currency": "ROS"
+      "error": "read past end of buffer"
     },
   ]
 }
