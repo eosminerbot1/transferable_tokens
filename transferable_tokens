@@ -77,6 +77,10 @@
       "currency": "ECTT"
     },
     {
+      "contract": "horustokenio",
+      "currency": "ECASH"
+    },
+    {
       "contract": "ednazztokens",
       "currency": "EDNA"
     },
